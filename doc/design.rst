@@ -3,7 +3,7 @@ Design
 
 The design of the backend is ready for any kind of application. It's been
 created with `Bootstrap 5`_, and some custom CSS and JavaScript code; all
-managed by `Webpack`_ via Symfony's `Webpack Encore`_.
+managed by Symfony's AssetMapper or by `Webpack`_ via Symfony's `Webpack Encore`_.
 
 Like any other Symfony bundle, assets are copied to (or symlinked from) the
 ``public/bundles/`` directory of your application when installing or updating
